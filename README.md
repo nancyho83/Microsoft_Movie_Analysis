@@ -30,19 +30,9 @@ To create the datasets I used in my analysis, I use SQL queries to join tables f
 
 ## Results
 
-Present your key results. For Phase 1, this will be findings from your descriptive analysis.
-
-***
-Questions to consider:
-* How do you interpret the results?
-* How confident are you that your results would generalize beyond the data you have?
-***
-
-Here is an example of how to embed images from your sub-folder:
-
 ### Gross Profits
 When comparing the total gross profits across individual movie genres, it seems that in both domestic and foreign box offices, Adventure, Animated and Sci-Fi movies perform the best and return the most profit.
-![Gross profits across individual genres](./images/Average-Gross.png)
+![Gross profits across individual genres](./images/Average_Gross.png)
 
 ### Average Movie Ratings
 In contrast, higher-grossing genres aren't as favorable with audiences as others, and genres that tend to be non-fictional like Documentary, History, and News tend to have higher ratings overall. This is also the case with combinations of the highest rated genres, such as the Biography, Documentary and Documentary, Music genres.
